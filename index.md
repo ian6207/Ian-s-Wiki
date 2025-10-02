@@ -11,5 +11,9 @@
     </h5>
     <h3>Popular News:</h3>
     <h5>(Empty)</h5>
+    <h3>All:</h3>
+    <h5>
+      <a href="DogeStory.md">The Story of the Doge</a>
+    </h5>
   </body>
 </html>
