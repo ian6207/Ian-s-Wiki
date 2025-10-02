@@ -8,5 +8,10 @@
     </h5>
     <h1>The Story of Doge</h1>
     <img src="https://upload.wikimedia.org/wikipedia/en/5/5f/Original_Doge_meme.jpg"></a>
+    <h5>
+      <p>
+        Do you know who Kabosu is? You may not be familiar with the name but you've probably seen her on the internet. She has big eyes and a wide smirk, that was hilarious enough to become one of the most famous memes!
+      </p>
+    </h5>
   </body>
 </html>
