@@ -3,7 +3,7 @@
     <title>Ian's Wiki - Home</title>
   </head>
   <body>
-    <h1>Ian's Wiki</h1>
+    <h1>Ian's and Kaison's Wiki</h1>
     <h5>The Wiki! Just appropiate for kids.</h5>
     <h3>Recent News Added:</h3>
     <h5>
