@@ -13,5 +13,6 @@
         The human brain is the main organ of your body. There are many different parts of the brain. These are the main parts: The Frontal Lobe, The Parietal Lobe, The Temporal Lobe, The Occipital Lobe, and The Olfactory Bulb. Did you know that the left side of your brain controls the right side of your body? And that the right side of your brain controls the left side of your body? It's crazy! Neurons are a specialized cell transmitting nerve impulses; a nerve cell. They are for sending signals to your brain from the body. It uses neurons as a information transporter to the rest of your body, like your five sences! Feeling, Hearing, Smelling, Seeing, and Tasting! The brain is a very important part of the human body. If any animal dosen't have a brain, it's not alive!
       </p>
     </h5>
+    <h5>By Kaison J. Lee</h5>
   </body>
 </html>
