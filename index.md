@@ -8,7 +8,7 @@
     <h3>Recent News Added:</h3>
     <h5>
       <p>
-        <a href="DogeStory.md">The Story of the Doge</a>
+        <a href="Farming.md">Farming</a>
       </p>
       <p>
         <a href="AboutBrain.md">The Brain</a>
@@ -23,6 +23,9 @@
       </p>
       <p>
         <a href="AboutBrain.md">The Brain</a>
+      </p>
+      <p>
+        <a href="Farming.md">Farming</a>
       </p>
     </h5>
   </body>
