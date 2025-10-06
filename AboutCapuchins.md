@@ -7,7 +7,7 @@
     <img src="https://junglefriends.org/wp-content/uploads/2024/10/charlotte-1.jpeg" width="300" height="400"></a>
     <h5>
       <p>
-        Capuchins are known for being the most intelligent monkey. Capuchins are one of the type that uses tools. They use stones to crack open nuts and leaves as sponge (and a lot more).
+        Capuchins are known for being the most intelligent monkey. Capuchins are one of the type that uses tools. They use stones to crack open nuts and leaves as sponge (and a lot more). There are mutiple capuchins, which are: Tufted, White-headed, Brown, and Wedged.
       </p>
     </h5>
   </body>
