@@ -10,7 +10,7 @@
     <img src="https://static.wikia.nocookie.net/roblox-blox-piece/images/4/40/Dragon_%28West%29_Fruit.png/revision/latest/scale-to-width/360?cb=20241222155217" width=300 height=300>
     <h5>
       <p>
-        Did you know Blox Fruits is one of the best games in roblox Blox fruits has over 1 trillion visits. Over the years Blox Fruits has gotten better and better because of the updates.so i will tell you the ropes first go to that guy when you spawn and 
+        Did you know Blox Fruits is one of the best games in roblox Blox fruits has over 1 trillion visits. Over the years Blox Fruits has gotten better and better because of the updates.so i will tell you the ropes first go to that guy when you spawn and then keep doing that on every island so if you have robux for first sea you should get Dark Blade and Smoke Fruit.
       </p>
     </h5>
   </body>
