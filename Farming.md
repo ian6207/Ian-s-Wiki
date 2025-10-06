@@ -4,7 +4,7 @@
   </head>
   <body>
     <h5>
-      <a href="index.md">:’
+      <a href="index.md">Return</a>
     </h5>
     <h1>Farming</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Woman_at_work%2C_Gujarat.jpg" width=300 height=300>
