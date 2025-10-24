@@ -8,10 +8,7 @@
     <h3>Recent News Added:</h3>
     <h5>
       <p>
-        <a href="Farming.md">Farming</a>
-      </p>
-      <p>
-        <a href="AboutBrain.md">The Brain</a>
+        Empty
       </p>
     </h5>
     <h3>Popular News:</h3>
